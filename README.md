@@ -1,5 +1,10 @@
 <div align="center">
 
+<p align="center">
+  <img src="assets/banner.png" alt="K3rNyx Banner" width="100%">
+</p>
+
+
 <img src="assets/logo.png" width="180" alt="Logo de K3rNyx">
 
 # K3rNyx
